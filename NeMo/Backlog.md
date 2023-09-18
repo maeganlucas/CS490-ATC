@@ -1,5 +1,5 @@
 # NeMo Backlog
-Taylor Sumlin, Adam Fitch, Maegan Lucas, Darian Hopkins
+Taylor Sumlin, Adam Fitch, Maegan Lucas, Darian Hopkins<br>
 Updated: 19 September 2023
 
 ## To Do
