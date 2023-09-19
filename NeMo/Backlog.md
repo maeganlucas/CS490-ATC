@@ -26,6 +26,7 @@ Updated: 19 September 2023
     - First draft of SRS -> Taylor Sumlin
     - Learn models -> All
     - Understand existing code -> All
+    - Learn how to use Pipefy -> All
 
 ## Done
     - Set up GitHub Repository
