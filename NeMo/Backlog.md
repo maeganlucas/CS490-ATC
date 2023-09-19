@@ -3,7 +3,6 @@ Taylor Sumlin, Adam Fitch, Maegan Lucas, Darian Hopkins<br>
 Updated: 19 September 2023
 
 ## To Do
-    - Set up computers, VPN, any other necessary items
     - Integrate ASR models into NeMo application
     - Polish interface
     - Polish existing website
@@ -22,5 +21,13 @@ Updated: 19 September 2023
     - Identify type of radio communication
 
 ## In Progess
+    - Set up computers, VPN, any other necessary items -> All
+    - First draft of SDD -> Taylor Sumlin
+    - First draft of SRS -> Taylor Sumlin
+    - Learn models -> All
+    - Understand existing code -> All
 
 ## Done
+    - Set up GitHub Repository
+    - Initial meeting with product owner
+    - Project vision
