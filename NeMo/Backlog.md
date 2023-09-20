@@ -32,3 +32,4 @@ Updated: 19 September 2023
     - Set up GitHub Repository
     - Initial meeting with product owner
     - Project vision
+    - Connection between Kaldi and NeMo teams
