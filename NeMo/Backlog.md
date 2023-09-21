@@ -1,6 +1,6 @@
 # NeMo Backlog
 Taylor Sumlin, Adam Fitch, Maegan Lucas, Darian Hopkins<br>
-Updated: 19 September 2023
+Updated: 19 September 2023<br>
 Pipefy Link: https://app.pipefy.com/public/form/7MFqGVEE
 
 ## To Do
