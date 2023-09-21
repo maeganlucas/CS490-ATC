@@ -1,6 +1,7 @@
 # NeMo Backlog
 Taylor Sumlin, Adam Fitch, Maegan Lucas, Darian Hopkins<br>
 Updated: 19 September 2023
+Pipefy Link: https://app.pipefy.com/public/form/7MFqGVEE
 
 ## To Do
     - Integrate ASR models into NeMo application
