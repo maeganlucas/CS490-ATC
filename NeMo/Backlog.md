@@ -1,7 +1,7 @@
 # NeMo Backlog
 Taylor Sumlin, Adam Fitch, Maegan Lucas, Darian Hopkins<br>
 Updated: 19 September 2023<br>
-Pipefy Link: https://app.pipefy.com/public/form/7MFqGVEE
+Scrumwise: https://www.scrumwise.com/scrum/#/overview/project/nemo-490/id-186782-16191-22
 
 ## To Do
     - Integrate ASR models into NeMo application
