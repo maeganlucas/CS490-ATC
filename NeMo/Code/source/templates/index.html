@@ -1,0 +1,14 @@
+{% extends 'template.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="gridContainer">
+    <div class="button">
+        <a href="{{ url_for('map.map', type='geo') }}">Geographic Map</a>
+    </div>
+    <div class="button">
+        <a href="{{ url_for('map.map', type='aero') }}">Aeronautical Map</a>
+    </div>
+</div>
+{% endblock %}

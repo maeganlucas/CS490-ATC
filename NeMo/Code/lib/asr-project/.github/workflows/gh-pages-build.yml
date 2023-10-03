@@ -1,0 +1,46 @@
+name: GitHub pages automation
+
+on:
+  push:
+    branches:
+      - main
+
+permissions: write-all
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-docs:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@main
+      - name: Dependency Setup
+        run: |
+          pip install -U Cython
+          pip install -r requirements/docs_requirements.txt
+
+      - name: Sphinx Build
+        run: |
+          sphinx-build -M html docs/source build
+
+      - name: Upload to gh-pages
+        run: |
+          ghp-import -p -o build/html
+          
+      - name: Configure pages
+        uses: actions/configure-pages@v3
+          
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: "build/html"
+
+      - name: Deploy to Github Pages
+        id: deployment
+        uses: actions/deploy-pages@v2

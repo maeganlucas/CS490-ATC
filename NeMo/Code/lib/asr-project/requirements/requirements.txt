@@ -1,0 +1,8 @@
+pandas
+openpyxl
+torch
+librosa
+pytorch_lightning
+matplotlib
+Cython
+nemo_toolkit[all]

@@ -1,0 +1,4 @@
+[submodule "lib/asr-project"]
+	path = lib/asr-project
+	url = https://github.com/AVanDeBrook/asr-project.git
+	branch = main
