@@ -28,6 +28,7 @@ Scrumwise: https://www.scrumwise.com/scrum/#/overview/project/nemo-490/id-186782
     - SDD V2 -> All
     - SRS V2 -> All
     - Sprint 2 Demo -> All
+    - Test Plan -> All
 
 ## Done
     - Set up GitHub Repository
