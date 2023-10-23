@@ -5,6 +5,9 @@ from flask import Blueprint, render_template
 bp = Blueprint("map", __name__, url_prefix="/map")
 
 initial_center = {"lon": -81.0580422, "lat": 29.1799089, "zoom": 8}
+
+
+
 #! Initial latitude and longitude set to Daytona Beach. Zoom level found through trial and error
 
 
