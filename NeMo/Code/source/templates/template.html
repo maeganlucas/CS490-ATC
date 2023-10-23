@@ -1,24 +1,52 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <title>{% block title %} {% endblock %}</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/stylesheet.css') }}" />
-</head>
-
-<body>
-    <nav>
-        <ul>
-            <li id="title">ASR for ATC App</li>
-            <li><a href="{{ url_for('index.index') }}">Home</a></li>
-            <li><a href="{{ url_for('about.about') }}">About</a></li>
-        </ul>
-    </nav>
-
-    <section class="content">
-        {% block content %}
-        {% endblock %}
-    </section>
-</body>
-
+    <head>
+        <title>{% block title %} {% endblock %}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="Speech-To-Text, ATC">
+        <meta name="description" content="Speech-To-Text for ATC, An app developed by students at Embry-Riddle Aeronautical Univsersity to help student pilots better understand Air Traffic Control speech and terminology.">
+        <meta name="version" content="1">
+        <!--<meta http-equiv="refresh" content="30">-->
+        <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/stylesheet.css') }}" />
+    </head>
+    <body>
+        <header>
+            <div id="headerBlock">
+                <div class="content">
+                    <span>ASR for ATC App</span>
+                </div>
+            </div>
+            <div id="navBlock">
+                <nav class="content">
+                    <ul>
+                        <li><a href="{{ url_for('index.index') }}">Home</a></li>
+                        <li><a href="{{ url_for('about.about') }}">About</a></li>
+                        <li><a href="{{ url_for('map.map', type='geo') }}">Geographic Map</a></li>
+                        <li><a href="{{ url_for('map.map', type='aero') }}">Aeronautical Map</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <section>
+            {% block content %}
+            {% endblock %}
+        </section>
+        <footer>
+            <div id="upperFooterBlock">
+                <div class="content">
+                    <div class="wrapper">
+                        <p>content goes here heheheheehe lalalalala content weeee upside da ooo hello world porkupine says hello idk have fun and good day</p>
+                    </div>
+                </div>
+            </div>
+            <div id="lowerFooterBlock">
+                <div class="content">
+                    <div class="wrapper">
+                        <p>Site map, Embry-Riddle, Terms of use, acessibility, privacy, legal compliance crap here</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
 </html>

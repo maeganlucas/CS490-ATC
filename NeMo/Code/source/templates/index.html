@@ -3,12 +3,18 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-<div class="gridContainer">
-    <div class="button">
-        <a href="{{ url_for('map.map', type='geo') }}">Geographic Map</a>
+<div id="indexContentBackground1">
+    <div class="indexContentBackgroundContent">
+        <div class="indexCenterMapLinks">
+            <a href="{{ url_for('map.map', type='geo') }}">Geographic Map</a>
+        </div>
     </div>
-    <div class="button">
-        <a href="{{ url_for('map.map', type='aero') }}">Aeronautical Map</a>
+</div>
+<div id="indexContentBackground2">
+    <div class="indexContentBackgroundContent">
+        <div class="indexCenterMapLinks">
+            <a href="{{ url_for('map.map', type='aero') }}">Aeronautical Map</a>
+        </div>
     </div>
 </div>
 {% endblock %}
