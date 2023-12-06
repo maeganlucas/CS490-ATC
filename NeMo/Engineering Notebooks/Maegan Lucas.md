@@ -71,14 +71,14 @@
 ## Week Fourteen (Nov. 27 - Dec. 3)
     - Updated Final SDD based on V2 feedback.
     - Updated Final SRS based on V2 feedback.
-    - Testing
+    - Testing (database, user interface)
     - Updated Final Test Plan
 
 ## Week Fifteen (Dec. 4 - Dec. 10)
     - Worked on Final Demo
     - GAVE FINAL DEMO!!
     - Worked on 3-Minute video slides
-    - Finished testing
+    - Finished testing (database, user interface, performance)
     - Finished Final Test Plan
         
     
