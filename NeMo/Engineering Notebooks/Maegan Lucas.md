@@ -66,4 +66,19 @@
     - Worked on final version of SDD and SRS
     - Still trying to query communication database on user click. It's a lot of trial and error.
     - ** THANKSGIVING HOLIDAY; WILL TRY TO WORK ON IT AS MUCH AS I CAN ON BREAK **
+    - Working on query communication
+
+## Week Fourteen (Nov. 27 - Dec. 3)
+    - Updated Final SDD based on V2 feedback.
+    - Updated Final SRS based on V2 feedback.
+    - Testing
+    - Updated Final Test Plan
+
+## Week Fifteen (Dec. 4 - Dec. 10)
+    - Worked on Final Demo
+    - GAVE FINAL DEMO!!
+    - Worked on 3-Minute video slides
+    - Finished testing
+    - Finished Final Test Plan
+        
     
