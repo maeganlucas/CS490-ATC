@@ -50,3 +50,9 @@
       <i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
       ![bug1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/405994f7-5eac-4bd4-a497-7cf5034e10ba)
       <br><i>Status:</i> In Progress
+
+      &emsp;<strong><i>Bug Revision 1:</i></strong><br>
+      &emsp;<i>Description:</i> Changed the height of the lower footer block to be 100% of the viewport height.<br>
+      &emsp;<i>Problems/Notes:</i> Adds extra length to the website that would normally not be seen. Not the biggest fan and will try to find a<br>
+      &emsp;better solution.
+      ![bug1_rev1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3d5a37f6-e761-4324-855b-a26a574c4afd)
