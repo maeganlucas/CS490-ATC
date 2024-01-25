@@ -25,3 +25,28 @@
     - About Us Page (Updating About page to most up-to-date information)
     - Homepage Rounded Buttons (Round the square buttons on the homepage for design consistency)
   - Continued talks with team about alternative APIs.
+
+  - Updated the template and home page with the following changes:
+    - Make header title bigger and moved the location down to the bottom of the header.
+    - Removed unnecessary "Site Map" link from footer.
+    - Changed footer links to match Embry-Riddle colors.
+    - Changed layout of footer links.
+    - Changed color gradient of header and footer bar to be lighter.
+    - Removed unnecessary "Details" from footer bar in template.
+    - Changed color of "Load Maps" button to navy blue to match Embry-Riddle color scheme.
+    - Rounded corners of "Load Maps" button to match map toggle roundness for design consistency.
+    - Fixed some spelling/capitalization errors
+    - Changed fonts from Arial, Helvetica to Arial for design consistency with Embry-Riddle scheme.
+
+      <strong>Initial Website:</strong>
+      ![old_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/c00446e3-a9e1-4c2d-8522-d429caf2a1a1)
+      ![old_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/e1866676-aa6a-449e-8257-8e807244689f)
+
+      <strong>Website Revision 1:</strong>
+      ![rev1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3f832455-7f2f-4b02-9689-a4d5dfe9d73f)
+      ![rev1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/0064dd96-c786-400a-b59e-e1f1ea0204bc)
+
+      <strong><i>Bug Introduced</i></strong><br>
+      <i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
+      ![bug1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/405994f7-5eac-4bd4-a497-7cf5034e10ba)
+      <br><i>Status:</i> In Progress
