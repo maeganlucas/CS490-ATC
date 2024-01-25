@@ -36,9 +36,6 @@ Scrumwise: https://www.scrumwise.com/scrum/#/overview/project/nemo-490/id-186782
 ### Ensure team is using similar enough versions of project files
 <strong>Assigned To:</strong> Maxwell Moolchan<br>
 <strong>Time Estimate:</strong> 1 hour <br>
-### Facelift on Frontend (Buttons, Bars, Text)
-<strong>Assigned To:</strong> Maegan Lucas<br>
-<strong>Time Estimate:</strong> 4 hours <br>
 
 ## In Progress
 ### Knowledge Share
@@ -47,6 +44,9 @@ Scrumwise: https://www.scrumwise.com/scrum/#/overview/project/nemo-490/id-186782
 ### Pesearch FlightRadar24 API
 <strong>Assigned To:</strong> Taylor Sumlin<br>
 <strong>Time Estimate:</strong> 3 hours <br>
+### Facelift on Frontend (Buttons, Bars, Text)
+<strong>Assigned To:</strong> Maegan Lucas<br>
+<strong>Time Estimate:</strong> 4 hours (1.75 hours remaining)<br>
 
 ## Done
 ### Product Vision
