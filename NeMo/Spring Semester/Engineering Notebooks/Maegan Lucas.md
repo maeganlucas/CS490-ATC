@@ -46,12 +46,13 @@
       ![old_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/c00446e3-a9e1-4c2d-8522-d429caf2a1a1)
       ![old_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/e1866676-aa6a-449e-8257-8e807244689f)
 
-      <strong>Template Revision:</strong>
+      <strong>Template Revision 1:</strong>
       ![rev1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3f832455-7f2f-4b02-9689-a4d5dfe9d73f)
       ![rev1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/0064dd96-c786-400a-b59e-e1f1ea0204bc)
 
       <strong><i>Bug Introduced</i></strong><br>
-      <i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
+      <i>Bug Name (for identification purposes):</i> White Box Bug
+      <br><i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
       ![bug1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/405994f7-5eac-4bd4-a497-7cf5034e10ba)
       <br><i>Status:</i> In Progress
 
@@ -62,6 +63,7 @@
       ![bug1_rev1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3d5a37f6-e761-4324-855b-a26a574c4afd)
 
 ### Week Four (Jan. 29 - Feb. 3)
+  <i><strong>White Box Bug</strong> still remains</i>
   - Merged pull request [#7](https://github.com/TheCreepOfWar/asr-webapp/pull/7)
   - Created pull request [#8](https://github.com/TheCreepOfWar/asr-webapp/pull/8)
   - Merged pull request [#8](https://github.com/TheCreepOfWar/asr-webapp/pull/8)
@@ -83,3 +85,28 @@
     <strong>About Page Revision:</strong>
     ![about_rev1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/eedbae2c-daa7-4dd1-9134-ed9d654ecff0)
     ![about_rev1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/2ca637d5-4f73-4219-b70d-562a7a2dae5f)
+  - Created the initial Contact page with the following steps:
+    - Created new HTML page, `contact.html`
+      - Uses the template layout from `template.html`
+      - Added a <i>Contact Us</i> header
+      - Added a message to the page about contacting the team
+      - Added Dr. Liu's contact information
+    - Created a blueprint to render the Contact template, contact.py
+    - Imported the Contact blueprint to `__init__.py`. Specific line:
+      ```python
+      from .blueprints import index, about, map, data, models, replay, site_map, contact
+      ```
+    - Registered the Contact blueprint in `__init__.py`. Specific line:
+      ```python
+      app.register_blueprint(contact.bp)
+      ```
+    - Modified the template layout to include a link to the Contact page. Specific line:
+      ```html
+      <li><a class="navy-font" href="{{ url_for('contact.contact') }}">Contact</a></li>
+      ```
+    <strong>Initial Contact Page:</strong>
+    ![contact1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3126d317-62e8-41cb-b365-eaa36e4837ad)
+    <i>Note: This initial contact page has residual effects of the White Box Bug.</i>
+    <br><br>
+    <strong>Template Revision 2:</strong>
+    ![rev2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/7bc2f0c7-2c88-42b2-9105-1e58d35b758f)
