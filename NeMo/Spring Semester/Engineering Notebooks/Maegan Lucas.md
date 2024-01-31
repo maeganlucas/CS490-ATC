@@ -25,10 +25,10 @@
     - About Us Page (Updating About page to most up-to-date information)
     - Homepage Rounded Buttons (Round the square buttons on the homepage for design consistency)
   - Continued talks with team about alternative APIs
-  - Created merge request [#5](https://github.com/TheCreepOfWar/asr-webapp/pull/5)
+  - Created merge request [#5](https://github.com/TheCreepOfWar/asr-webapp/pull/5) (Update color scheme)
   - Started initial changes to About page
-  - Reviewed pull requests [#6](https://github.com/TheCreepOfWar/asr-webapp/pull/6) and [#7](https://github.com/TheCreepOfWar/asr-webapp/pull/7)
-  - Merged pull requests [#5](https://github.com/TheCreepOfWar/asr-webapp/pull/5) and [#6](https://github.com/TheCreepOfWar/asr-webapp/pull/6)
+  - Reviewed pull requests [#6](https://github.com/TheCreepOfWar/asr-webapp/pull/6) (Background image fix) and [#7](https://github.com/TheCreepOfWar/asr-webapp/pull/7) (Map Zoom fix)
+  - Merged pull requests [#5](https://github.com/TheCreepOfWar/asr-webapp/pull/5) (Update color scheme) and [#6](https://github.com/TheCreepOfWar/asr-webapp/pull/6) (Background image fix)
 
   - Updated the template and home page with the following changes:
     - Make header title bigger and moved the location down to the bottom of the header
@@ -64,11 +64,11 @@
 
 ### Week Four (Jan. 29 - Feb. 3)
   <i><strong>White Box Bug</strong> still remains</i>
-  - Merged pull request [#7](https://github.com/TheCreepOfWar/asr-webapp/pull/7)
-  - Created pull request [#8](https://github.com/TheCreepOfWar/asr-webapp/pull/8)
-  - Merged pull request [#8](https://github.com/TheCreepOfWar/asr-webapp/pull/8)
-  - Reviewed pull request [#9](https://github.com/TheCreepOfWar/asr-webapp/pull/9)
-  - Created pull request [#10](https://github.com/TheCreepOfWar/asr-webapp/pull/10)
+  - Merged pull request [#7](https://github.com/TheCreepOfWar/asr-webapp/pull/7) (Map Zoom Fix)
+  - Created pull request [#8](https://github.com/TheCreepOfWar/asr-webapp/pull/8) (About Page
+  - Merged pull request [#8](https://github.com/TheCreepOfWar/asr-webapp/pull/8) (About Page)
+  - Reviewed pull request [#9](https://github.com/TheCreepOfWar/asr-webapp/pull/9) (Zoom button changes)
+  - Created pull request [#10](https://github.com/TheCreepOfWar/asr-webapp/pull/10) (Changing Schneider's blurb slightly)
   - Updated the About page with the following updates:
     - Changed text to navy font
     - Changed size of header setting 1
