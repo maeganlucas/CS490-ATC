@@ -126,5 +126,6 @@
       &emsp;<strong><i>Bug Revision 2:</i></strong><br>
       &emsp;<i>Description:</i> Removed height change of 100 viewport height and set a minimum height of 200px. Set the background color of HTML <br>
       &emsp;to be Embry-Riddle Navy to match footer, so when a different screen size is encountered, or a zoom-out occurs, the HTML <br> 
-      &emsp;background blends seamlessly with the footer creating the illusion that the footer is expanding to fill the screen.
+      &emsp;background blends seamlessly with the footer creating the illusion that the footer is expanding to fill the screen without adding extra <br>
+      &emsp;length.
       ![bug1_rev2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/9b285806-8198-4580-866b-123e202f37c7)
