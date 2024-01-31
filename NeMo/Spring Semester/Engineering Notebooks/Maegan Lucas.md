@@ -50,7 +50,7 @@
       ![rev1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3f832455-7f2f-4b02-9689-a4d5dfe9d73f)
       ![rev1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/0064dd96-c786-400a-b59e-e1f1ea0204bc)
 
-      <strong><i>Bug Introduced</i></strong><br>
+      #### <strong><i>Bug Introduced</i></strong><br>
       <i>Bug Name (for identification purposes):</i> White Box Bug
       <br><i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
       ![bug1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/405994f7-5eac-4bd4-a497-7cf5034e10ba)
@@ -68,6 +68,7 @@
   - Created pull request [#8](https://github.com/TheCreepOfWar/asr-webapp/pull/8)
   - Merged pull request [#8](https://github.com/TheCreepOfWar/asr-webapp/pull/8)
   - Reviewed pull request [#9](https://github.com/TheCreepOfWar/asr-webapp/pull/9)
+  - Created pull request [#10](https://github.com/TheCreepOfWar/asr-webapp/pull/10)
   - Updated the About page with the following updates:
     - Changed text to navy font
     - Changed size of header setting 1
@@ -82,9 +83,10 @@
     ![about1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/c40bf6e4-0451-41c8-8742-eab0f07169f9)
     ![about2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/23a08560-540e-4a55-b566-c47ec108b371)
 
-    <strong>About Page Revision:</strong>
+    <strong>About Page Revision 1:</strong>
     ![about_rev1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/eedbae2c-daa7-4dd1-9134-ed9d654ecff0)
     ![about_rev1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/2ca637d5-4f73-4219-b70d-562a7a2dae5f)
+    
   - Created the initial Contact page with the following steps:
     - Created new HTML page, `contact.html`
       - Uses the template layout from `template.html`
@@ -110,3 +112,19 @@
     <br><br>
     <strong>Template Revision 2:</strong>
     ![rev2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/7bc2f0c7-2c88-42b2-9105-1e58d35b758f)
+
+  - Updated Andrew Schneider's blurb on the About page to include "Embry-Riddle Aeronautical University" instead of just "College of Aviation"
+    
+    <strong>About Page Revision 2:</strong>
+    ![about_rev2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/df327ef7-f327-4cf1-9b0b-ea4e5e9359cc)
+
+    <strong><i>Bug Resolved</i></strong><br>
+      <i>Bug Name (for identification purposes):</i> [White Box Bug](#bug-introduced)
+      <br><i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
+      <br><i>Status:</i> Finished
+
+      &emsp;<strong><i>Bug Revision 2:</i></strong><br>
+      &emsp;<i>Description:</i> Removed height change of 100 viewport height and set a minimum height of 200px. Set the background color of HTML <br>
+      &emsp;to be Embry-Riddle Navy to match footer, so when a different screen size is encountered, or a zoom-out occurs, the HTML <br> 
+      &emsp;background blends seamlessly with the footer creating the illusion that the footer is expanding to fill the screen.
+      ![bug1_rev2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/9b285806-8198-4580-866b-123e202f37c7)
