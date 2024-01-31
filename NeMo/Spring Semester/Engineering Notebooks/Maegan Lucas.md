@@ -54,7 +54,7 @@
       <i>Bug Name (for identification purposes):</i> White Box Bug
       <br><i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
       ![bug1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/405994f7-5eac-4bd4-a497-7cf5034e10ba)
-      <br><i>Status:</i> [Completed](#bug-resolved)
+      <br><i>Status:</i> [Resolved](#bug-resolved)
 
       &emsp;<strong><i>Bug Revision 1:</i></strong><br>
       &emsp;<i>Description:</i> Changed the height of the lower footer block to be 100% of the viewport height.<br>
@@ -121,7 +121,7 @@
     #### <strong><i>Bug Resolved</i></strong><br>
       <i>Bug Name (for identification purposes):</i> [White Box Bug](#bug-introduced)
       <br><i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
-      <br><i>Status:</i> Finished
+      <br><i>Status:</i> Resolved
 
       &emsp;<strong><i>Bug Revision 2:</i></strong><br>
       &emsp;<i>Description:</i> Removed height change of 100 viewport height and set a minimum height of 200px. Set the background color of HTML <br>
