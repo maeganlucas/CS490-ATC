@@ -71,6 +71,9 @@
   - Created pull request [#10](https://github.com/TheCreepOfWar/asr-webapp/pull/10) (Changing Schneider's blurb slightly)
   - Merged pull request [#10](https://github.com/TheCreepOfWar/asr-webapp/pull/10) (Changing Schneider's blurb slightly)
   - Reviewed pull request [#11](https://github.com/TheCreepOfWar/asr-webapp/pull/11#pullrequestreview-1857453868) (Early frequency dropdown implementation)
+  - Updated the Context Diagram for clarity. Changed "NeMo System" to "Web Application" 
+  - Updated section 1.4, 1.5, 2.2, 4.1, 4.3, the Table of Contents, the Glossary, made minor changes to the whole of the document, and changed the Context Diagram in the SRS
+  - Updated sections 1.1, 1.2, 1.4, the Table of Contents, the Glossary, made minor changes to the whole of the document, and changed the Context Diagram in the SDD
   - Updated the About page with the following updates:
     - Changed text to navy font
     - Changed size of header setting 1
@@ -131,3 +134,9 @@
       &emsp;background blends seamlessly with the footer creating the illusion that the footer is expanding to fill the screen without adding extra <br>
       &emsp;length.
       ![bug1_rev2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/9b285806-8198-4580-866b-123e202f37c7)
+  
+  - Changed width of content in stylesheet due to introduced difference.
+
+    <strong>Initial Width Change:</strong>
+    ![bug2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/ba5a5001-8897-4721-b4fa-b4616cd44751)
+    ![bug2_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/90a6dbdd-5ba8-4fb3-affc-ca71c46d2296)
