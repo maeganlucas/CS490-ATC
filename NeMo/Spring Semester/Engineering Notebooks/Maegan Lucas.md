@@ -70,6 +70,7 @@
   - Reviewed pull request [#9](https://github.com/TheCreepOfWar/asr-webapp/pull/9) (Zoom button changes)
   - Created pull request [#10](https://github.com/TheCreepOfWar/asr-webapp/pull/10) (Changing Schneider's blurb slightly)
   - Merged pull request [#10](https://github.com/TheCreepOfWar/asr-webapp/pull/10) (Changing Schneider's blurb slightly)
+  - Reviewed pull request [#11](https://github.com/TheCreepOfWar/asr-webapp/pull/11#pullrequestreview-1857453868) (Early frequency dropdown implementation)
   - Updated the About page with the following updates:
     - Changed text to navy font
     - Changed size of header setting 1
