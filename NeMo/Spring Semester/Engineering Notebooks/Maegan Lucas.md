@@ -158,10 +158,21 @@
   - Added my UI changes (template update, <i>About</i> page update, initial <i>Contact</i> page creation) to Sprint 1 Demo
   - Added team members to Sprint 1 Demo
   - Added new template for Sprint Demos
+  - Created pull request [#17](https://github.com/TheCreepOfWar/asr-webapp/pull/17) (Change body background to white)
 
 #### <strong><i>Bug 3 Introduced</i></strong><br>
   <i>Bug Name (for identification purposes):</i> [Navy on Navy Bug](#bug-3-introduced)
       <br><i>Description:</i> Changing the background of the HTML to navy caused the navy text in the body to disappear as it is navy on navy.
-      <br><i>Status:</i> In Progress
+      <br><i>Status:</i> [Resolved](#bug-3-resolved)
       ![bug3_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/2f0325a2-2c41-4f5c-966b-02aaae3af6d4)
       ![bug3_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3c9511ed-f3dc-48fb-ad02-d28f67653f89)
+
+#### <strong><i> Bug 3 Resolved</i></strong><br>
+   <i>Bug Name (for identification purposes):</i> [Navy on Navy Bug](#bug-3-introduced)
+      <br><i>Description:</i> Changing the background of the HTML to navy caused the navy text in the body to disappear as it is navy on navy.
+      <br><i>Status:</i> Resolved
+      
+   &emsp;<strong><i>Bug 3 Revision 1:</i></strong><br>
+   &emsp;<i>Description:</i> Changed body background color to white in `stylesheet.css` so navy text can be seen.
+   ![bug3_rev1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/d9d01dd7-64eb-41a6-8f90-b9a6bb4dd9f5)
+   ![bug3_rev1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/c5bb42e9-258a-49ce-b557-2bfa1987e88c)
