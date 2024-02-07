@@ -50,13 +50,13 @@
       ![rev1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3f832455-7f2f-4b02-9689-a4d5dfe9d73f)
       ![rev1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/0064dd96-c786-400a-b59e-e1f1ea0204bc)
 
-      #### <strong><i>Bug Introduced</i></strong><br>
+      #### <strong><i>Bug 1 Introduced</i></strong><br>
       <i>Bug Name (for identification purposes):</i> White Box Bug
       <br><i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
       ![bug1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/405994f7-5eac-4bd4-a497-7cf5034e10ba)
-      <br><i>Status:</i> [Resolved](#bug-resolved)
+      <br><i>Status:</i> [Resolved](#bug-1-resolved)
 
-      &emsp;<strong><i>Bug Revision 1:</i></strong><br>
+      &emsp;<strong><i>Bug 1 Revision 1:</i></strong><br>
       &emsp;<i>Description:</i> Changed the height of the lower footer block to be 100% of the viewport height.<br>
       &emsp;<i>Problems/Notes:</i> Adds extra length to the website that would normally not be seen. Not the biggest fan and will try to find a<br>
       &emsp;better solution.
@@ -123,12 +123,12 @@
     <strong>About Page Revision 2:</strong>
     ![about_rev2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/df327ef7-f327-4cf1-9b0b-ea4e5e9359cc)
 
-    #### <strong><i>Bug Resolved</i></strong><br>
-      <i>Bug Name (for identification purposes):</i> [White Box Bug](#bug-introduced)
+    #### <strong><i>Bug 1 Resolved</i></strong><br>
+      <i>Bug Name (for identification purposes):</i> [White Box Bug](#bug-1-introduced)
       <br><i>Description:</i> By removing the unnecessary "Details" from the footer bar, it has introduced an issue that the navy footer does not expand fully to the bottom of the screen on screens of different size or zoom levels.
       <br><i>Status:</i> Resolved
 
-      &emsp;<strong><i>Bug Revision 2:</i></strong><br>
+      &emsp;<strong><i>Bug 1 Revision 2:</i></strong><br>
       &emsp;<i>Description:</i> Removed height change of 100 viewport height and set a minimum height of 200px. Set the background color of HTML <br>
       &emsp;to be Embry-Riddle Navy to match footer, so when a different screen size is encountered, or a zoom-out occurs, the HTML <br> 
       &emsp;background blends seamlessly with the footer creating the illusion that the footer is expanding to fill the screen without adding extra <br>
@@ -136,7 +136,25 @@
       ![bug1_rev2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/9b285806-8198-4580-866b-123e202f37c7)
   
   - Changed width of content in stylesheet due to introduced difference.
-
+    #### <strong><i>Bug 2 Introduced</i></strong><br>
+     <i>Bug Name (for identification purposes):</i> [Width Bug](#bug-2-introduced)
+      <br><i>Description:</i> A change in the width of the content CSS class reduced the width of everything on the site.
+      <br><i>Status:</i> [Resolved](#bug-2-resolved)
+    
     <strong>Initial Width Change:</strong>
     ![bug2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/ba5a5001-8897-4721-b4fa-b4616cd44751)
     ![bug2_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/90a6dbdd-5ba8-4fb3-affc-ca71c46d2296)
+
+    #### <strong><i>Bug 2 Resolved</i></strong><br>
+    <i>Bug Name (for identification purposes):</i> [Width Bug](#bug-2-introduced)
+      <br><i>Description:</i> A change in the width of the content CSS class reduced the width of everything on the site.
+      <br><i>Status:</i> Resolved
+
+      &emsp;<strong><i>Bug 2 Revision 1:</i></strong><br>
+      &emsp;<i>Description:</i> Changed media content height in `stylesheet.css` from 600px back to 1170px.
+    
+### Week Five (Feb. 4 - Feb. 11)
+  - Created pull request [#16](https://github.com/TheCreepOfWar/asr-webapp/pull/16) (Create initial contact page)
+  - Added my UI changes (template update, <i>About</i> page update, initial <i>Contact</i> page creation) to Sprint 1 Demo
+  - Added team members to Sprint 1 Demo
+  - Added new template for Sprint Demos
