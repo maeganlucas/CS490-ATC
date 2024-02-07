@@ -159,6 +159,7 @@
   - Added team members to Sprint 1 Demo
   - Added new template for Sprint Demos
   - Created pull request [#17](https://github.com/TheCreepOfWar/asr-webapp/pull/17) (Change body background to white)
+  - Merged pull request [#17](https://github.com/TheCreepOfWar/asr-webapp/pull/17) (Change body background to white)
 
 #### <strong><i>Bug 3 Introduced</i></strong><br>
   <i>Bug Name (for identification purposes):</i> [Navy on Navy Bug](#bug-3-introduced)
