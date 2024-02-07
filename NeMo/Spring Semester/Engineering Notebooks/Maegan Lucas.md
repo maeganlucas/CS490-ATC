@@ -158,3 +158,10 @@
   - Added my UI changes (template update, <i>About</i> page update, initial <i>Contact</i> page creation) to Sprint 1 Demo
   - Added team members to Sprint 1 Demo
   - Added new template for Sprint Demos
+
+#### <strong><i>Bug 3 Introduced</i></strong><br>
+  <i>Bug Name (for identification purposes):</i> [Navy on Navy Bug](#bug-3-introduced)
+      <br><i>Description:</i> Changing the background of the HTML to navy caused the navy text in the body to disappear as it is navy on navy.
+      <br><i>Status:</i> In Progress
+      ![bug3_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/2f0325a2-2c41-4f5c-966b-02aaae3af6d4)
+      ![bug3_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/3c9511ed-f3dc-48fb-ad02-d28f67653f89)
