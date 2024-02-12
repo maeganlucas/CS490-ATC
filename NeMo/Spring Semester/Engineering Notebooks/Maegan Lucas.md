@@ -1,6 +1,12 @@
 # Engineering Notebook - Maegan Lucas
 
 ## Semester Two - Spring 2024
+[Week One](#week-one)
+&emsp;[Week Two](#week-two)
+&emsp;[Week Three](#week-three)
+&emsp;[Week Four](#week-four)
+&emsp;[Week Five](#week-five)
+
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
   - Expressed desire to work on front-end development
@@ -160,6 +166,7 @@
   - Added new template for Sprint Demos
   - Created pull request [#17](https://github.com/TheCreepOfWar/asr-webapp/pull/17) (Change body background to white)
   - Merged pull request [#17](https://github.com/TheCreepOfWar/asr-webapp/pull/17) (Change body background to white)
+  - Gave [Sprint 1 Demo](https://github.com/maeganlucas/CS490-ATC/blob/main/NeMo/Spring%20Semester/Demos/NeMo%20Spring%20-%20Sprint%201%20Demo.pdf)
 
 #### <strong><i>Bug 3 Introduced</i></strong><br>
   <i>Bug Name (for identification purposes):</i> [Navy on Navy Bug](#bug-3-introduced)
