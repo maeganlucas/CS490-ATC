@@ -1,11 +1,11 @@
 # Engineering Notebook - Maegan Lucas
 
 ## Semester Two - Spring 2024
-[Week One](#week-one)
-&emsp;[Week Two](#week-two)
-&emsp;[Week Three](#week-three)
-&emsp;[Week Four](#week-four)
-&emsp;[Week Five](#week-five)
+[Week One](#week-one-jan-10---jan-14)
+&emsp;[Week Two](#week-two-jan015---jan-21)
+&emsp;[Week Three](#week-three-jan-22---jan-28)
+&emsp;[Week Four](#week-four-jan-29---feb-3)
+&emsp;[Week Five](#week-five-feb-4---feb-11)
 
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
