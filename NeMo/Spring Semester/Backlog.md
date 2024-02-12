@@ -5,13 +5,7 @@ Scrumwise: https://www.scrumwise.com/scrum/#/overview/project/nemo-490/id-186782
 
 # Table of Contents
 &emsp;[Sprint 1](#sprint-1)<br>
-&emsp;&emsp;[To Do](#to-do)<br>
-&emsp;&emsp;[In Progress](#in-progress)<br>
-&emsp;&emsp;[Done](#done)<br>
 &emsp;[Sprint 2](#sprint-2)<br>
-&emsp;&emsp;[To Do](#to-do)<br>
-&emsp;&emsp;[In Progress](#in-progress)<br>
-&emsp;&emsp;[Done](#done)<br>
 &emsp;[Product Backlog](#product-backlog)<br>
 
 # Sprint 1
