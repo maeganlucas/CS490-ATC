@@ -9,8 +9,8 @@
 
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
-  - Expressed desire to work on front-end development
-  - Was reassigned to front end tasks
+  - Expressed desire to work on frontend development
+  - Was reassigned to frontend tasks
 
 ### Week Two (Jan. 15 - Jan. 21)
   <i> Was absent due to illness Jan. 16 - Communicated remotely </i>
