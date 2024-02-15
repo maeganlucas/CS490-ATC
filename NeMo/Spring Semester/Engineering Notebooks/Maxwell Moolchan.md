@@ -11,16 +11,23 @@
     - (16 January 2024) Discussion with TA regarding where we are in the project, where we are going, items that need to be completed this sprint, and issues we have had.
       - OpenskyAPI Difficulties
       - Discussion of moving to a different flight data API
-    - (18 January 2024) Found temporary solution for saving 
+    - (18 January 2024) Found temporary solution for saving data from opensky
+      - temporary save file with each successful call to opensky for days when opensky is down.
 ### Week 3 (21 January 2024 - 27 January 2024)
-
+    - (25 January 2024) 
+      - Fixed zoom locking not working on certain map modes, should no longer be able to zoom in to blackout.
+      - Commited needed background to main since the remote copy of main did not have it.
 ### Week 4 (28 January 2024 - 3 February 2024)
-
+    - (30 January 2024) Bug fixes and zoom icon changes.
+      - Bug Fix, plane rotation was throwing off correct position location of aircraft, rotation origin should be set to center center, rather than the default bottom center.
+    - (1 February 2024) icon size changes and bug fixes.
+      - Implemented icon size change with zoom to lower the amount of crowding on the map.
+      - Bug fix aircraft showing through the zoomout message.
 ### Week 5 (4 February 2024 - 10 February 2024)
-    - (7 January 2024) Added settings pane and settings button as discussed with Taylor for future settings.
+    - (7 February 2024) Added settings pane and settings button as discussed with Taylor for future settings.
       - Added settings pane within the information pane.
       - Added settings button on the right side of map screen with other map buttons, button is togglable and when other panes are activated button works as intended.
-    - (8 January 2024) Presented Spring Demo in IC.
+    - (8 February 2024) Presented Spring Demo in IC.
       - Discussed new information pane design with Taylor.
       - Presented presentation in IC and accomplishments for Spring Sprint 1.
 ### Week 6 (11 February 2024 - 17 February 2024)
