@@ -1,6 +1,6 @@
 # Engineering Notebook - Maxwell Moolchan
 
-## Semester 1
+## Semester 2 (Spring)
 ### Week 1 (10 January 2024 - 13 January 2024)
     - (11 January 2024) Discussion with Akbas regarding changes in second semester senior design & discussed with group current position in project and expectations for the semester.
       - Some people want to switch roles on the team.
