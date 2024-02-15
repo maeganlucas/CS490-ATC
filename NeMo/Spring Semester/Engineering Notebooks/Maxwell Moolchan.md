@@ -6,7 +6,6 @@
       - Some people want to switch roles on the team.
       - OpenskyAPI Difficulties.
       - Product Vision statement.
-    
 ### Week 2 (14 January 2024 - 20 January 2024)
     - (16 January 2024) Discussion with TA regarding where we are in the project, where we are going, items that need to be completed this sprint, and issues we have had.
       - OpenskyAPI Difficulties
@@ -46,4 +45,8 @@
       - Discussed with frontend group how we wish to divide backlog items.
       - Discussed removing approval needed for documentation repo to easier update engineering notebooks with Maegan.
     - (14 February 2024) Fixed Minor bugs.
-      - Fixed Minor bug introduced with right buttons on map screen having rounded corners when unintended. 
+      - Fixed Minor bug introduced with right buttons on map screen having rounded corners when unintended.
+    - (15 February 2024) Worked with Tyler (Research Assistant) to get access on lab computer setup.
+      - Worked with Tyler to get lab computer access setup.
+      - Worked on updating engineering notebook.
+      - Worked on updating UI further.
