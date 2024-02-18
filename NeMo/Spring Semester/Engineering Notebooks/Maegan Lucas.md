@@ -2,7 +2,7 @@
 
 ## Semester Two - Spring 2024
 [Week One](#week-one-jan-10---jan-14)
-&emsp;[Week Two](#week-two-jan015---jan-21)
+&emsp;[Week Two](#week-two-jan-15---jan-21)
 &emsp;[Week Three](#week-three-jan-22---jan-28)
 &emsp;[Week Four](#week-four-jan-29---feb-3)
 &emsp;[Week Five](#week-five-feb-4---feb-11)
