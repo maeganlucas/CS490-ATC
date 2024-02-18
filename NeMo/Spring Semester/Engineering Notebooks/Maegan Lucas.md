@@ -6,6 +6,7 @@
 &emsp;[Week Three](#week-three-jan-22---jan-28)
 &emsp;[Week Four](#week-four-jan-29---feb-3)
 &emsp;[Week Five](#week-five-feb-4---feb-11)
+&emsp;[Week Six](#week-six-feb-12---feb-18)
 
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
@@ -179,8 +180,20 @@
    <i>Bug Name (for identification purposes):</i> [Navy on Navy Bug](#bug-3-introduced)
       <br><i>Description:</i> Changing the background of the HTML to navy caused the navy text in the body to disappear as it is navy on navy.
       <br><i>Status:</i> Resolved
-      
+    
    &emsp;<strong><i>Bug 3 Revision 1:</i></strong><br>
    &emsp;<i>Description:</i> Changed body background color to white in `stylesheet.css` so navy text can be seen.
    ![bug3_rev1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/d9d01dd7-64eb-41a6-8f90-b9a6bb4dd9f5)
    ![bug3_rev1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/c5bb42e9-258a-49ce-b557-2bfa1987e88c)
+
+### Week Six (Feb. 12 - Feb. 18)
+  - Worked on adding new requirements to Test Plan V1
+  - Determined with team I would make a Glossary page for aviation phraseology
+  - Researched how to add HTML elements to a page based on radio button selection
+    - Determined that it requires a script within the file
+  - Started working on audio replay page. Added these rudimentary elements:
+    - Page title
+    - Call sign entry text box
+    - Single date selection radio button
+    - Date range selection radio button
+      ![audio_replay_rev_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/defae275-ed96-44b0-9397-3af2fd835a7d)
