@@ -1,0 +1,29 @@
+#Engineering NoteBook - Taylor Sumlin
+
+## Semester 2 (Spring)
+### Week 1 (10 January 2024 - 13 January 2024)
+    - Discussed new member roles and goals for Spring semester 
+    - Discussed OpenSky API issues and contacted new potential API's
+
+### Week 2 (14 January 2024 - 20 January 2024)
+    - Began early work on new panel styles
+    - Ongoing contact with FlightRadar24 regarding new API
+
+### Week 3 (21 January 2024 - 27 January 2024)
+    - Work on SRS and SDS sections
+    - Remade some diagrams to better fit current architecture
+
+### Week 4 (28 January 2024 - 3 February 2024)
+    - Created early phase of frequency drop down menu to brainstorm for final versions
+    - Researching and gathering information to come up with new features that can be implemented to work as study tools
+    - FlightRadar24 found to be way too expensive
+
+### Week 5 (4 February 2024 - 10 February 2024)
+    - Presented Sprint 1
+    - Implemented hover events for airports and airplane icons
+
+### Week 6 (11 February 2024 - 17 February 2024)
+    - Implementation of drop down menus
+    - Updates to Plane Category Icons
+    - Contacted ADS-B regarding their API and flight reciever hardware
+    - Finalized Sprint 2 backlog & goals for the sprint
