@@ -7,6 +7,7 @@
 &emsp;[Week Four](#week-four-jan-29---feb-3)
 &emsp;[Week Five](#week-five-feb-4---feb-11)
 &emsp;[Week Six](#week-six-feb-12---feb-18)
+&emsp;[Week Seven](#week-seven-feb-19---feb25)
 
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
@@ -81,6 +82,10 @@
   - Updated the Context Diagram for clarity. Changed "NeMo System" to "Web Application" 
   - Updated section 1.4, 1.5, 2.2, 4.1, 4.3, the Table of Contents, the Glossary, made minor changes to the whole of the document, and changed the Context Diagram in the SRS
   - Updated sections 1.1, 1.2, 1.4, the Table of Contents, the Glossary, made minor changes to the whole of the document, and changed the Context Diagram in the SDD
+  - Uploaded SRS V1 to GitHub Repository
+  - Submitted SRS V1 link
+  - Uploaded SDD V1 to GitHub Repository
+  - Submitted SDD V1 link
   - Updated the About page with the following updates:
     - Changed text to navy font
     - Changed size of header setting 1
@@ -197,3 +202,13 @@
     - Single date selection radio button
     - Date range selection radio button
       ![audio_replay_rev_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/defae275-ed96-44b0-9397-3af2fd835a7d)
+      
+### Week Seven (Feb. 19 - Feb. 25)
+  - Updated Test Plan sections 3.3, 4.1, 5.1 and Table of Contents
+  - Uploaded Test Plan to GitHub Repository
+  - Submitted Test Plan link
+  - Continued work on Audio Replay page
+    - Added submit button
+    - Started script to add elements based on radio button selection
+    - Selecting <i>Singular Date</i> radio button adds date selection input, removes <i>Date Range</i> label and radio button, changes <i>Singular Date</i> text to <i>Date:</i>, and adds reset button
+    - Selecting <i>Date Range</i> radio button removes <i>Singular Date</i> label and radio button, adds label for <i>From:</i> label, first date selection input, <i>To:</i> label, second date selection input, and reset button
