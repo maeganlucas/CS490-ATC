@@ -211,4 +211,6 @@
     - Added submit button
     - Started script to add elements based on radio button selection
     - Selecting <i>Singular Date</i> radio button adds date selection input, removes <i>Date Range</i> label and radio button, changes <i>Singular Date</i> text to <i>Date:</i>, and adds reset button
+      ![single_date_selection_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/e852fe7a-9c32-4282-8227-b8394bfcbbf1)
     - Selecting <i>Date Range</i> radio button removes <i>Singular Date</i> label and radio button, adds label for <i>From:</i> label, first date selection input, <i>To:</i> label, second date selection input, and reset button
+      ![date_range_selection_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/bcc423d4-1c58-493c-acff-bcbcbe14a284)
