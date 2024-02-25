@@ -7,7 +7,7 @@
 &emsp;[Week Four](#week-four-jan-29---feb-3)
 &emsp;[Week Five](#week-five-feb-4---feb-11)
 &emsp;[Week Six](#week-six-feb-12---feb-18)
-&emsp;[Week Seven](#week-seven-feb-19---feb25)
+&emsp;[Week Seven](#week-seven-feb-19---feb-25)
 
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
