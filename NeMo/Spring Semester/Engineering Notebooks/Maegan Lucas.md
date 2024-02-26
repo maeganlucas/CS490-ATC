@@ -209,6 +209,8 @@
   - Submitted Test Plan link
   - Continued work on Audio Replay page
     - Added submit button
+    - Added reset button to Single Date select screen
+    - Started work on reset button function
     - Started script to add elements based on radio button selection
     - Selecting <i>Singular Date</i> radio button adds date selection input, removes <i>Date Range</i> label and radio button, changes <i>Singular Date</i> text to <i>Date:</i>, and adds reset button
       ![single_date_selection_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/e852fe7a-9c32-4282-8227-b8394bfcbbf1)
