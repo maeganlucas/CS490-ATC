@@ -8,6 +8,7 @@
 &emsp;[Week Five](#week-five-feb-4---feb-11)
 &emsp;[Week Six](#week-six-feb-12---feb-18)
 &emsp;[Week Seven](#week-seven-feb-19---feb-25)
+&emsp;[Week Eight](#week-eight-feb-26---mar-3)
 
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
@@ -201,6 +202,7 @@
     - Call sign entry text box
     - Single date selection radio button
     - Date range selection radio button
+  - Styled input elements
       ![audio_replay_rev_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/defae275-ed96-44b0-9397-3af2fd835a7d)
       
 ### Week Seven (Feb. 19 - Feb. 25)
@@ -216,3 +218,17 @@
       ![single_date_selection_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/e852fe7a-9c32-4282-8227-b8394bfcbbf1)
     - Selecting <i>Date Range</i> radio button removes <i>Singular Date</i> label and radio button, adds label for <i>From:</i> label, first date selection input, <i>To:</i> label, and second date selection input
       ![date_range_selection_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/bcc423d4-1c58-493c-acff-bcbcbe14a284)
+
+### Week Eight (Feb. 26 - Mar. 3)
+  - Created pull request [#21](https://github.com/TheCreepOfWar/asr-webapp/pull/21) (Create Base Audio Replay Page)
+  - Continued work on Audio Replay page
+    - Added reset button to Date Range select screen.
+    - Implement reset button to return to original screen configuration
+      ![reset_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/892851a3-4be9-4e4b-9549-fa1e43a26f9b)
+    - Styled button elements
+      ![styled_buttons](https://github.com/maeganlucas/CS490-ATC/assets/92832062/d7da6f0a-34e3-4b4e-9a33-7768652e1dc6)
+    - Added small divider between header and where database results will be
+    - Added div to hold database results
+      - Will be formatted more when database connection between frontend and backend are established.
+      
+
