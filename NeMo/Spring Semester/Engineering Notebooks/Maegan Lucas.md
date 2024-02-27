@@ -226,9 +226,8 @@
     - Implement reset button to return to original screen configuration
       ![reset_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/892851a3-4be9-4e4b-9549-fa1e43a26f9b)
     - Styled button elements
-      ![styled_buttons](https://github.com/maeganlucas/CS490-ATC/assets/92832062/d7da6f0a-34e3-4b4e-9a33-7768652e1dc6)
     - Added small divider between header and where database results will be
     - Added div to hold database results
       - Will be formatted more when database connection between frontend and backend are established.
-      
+      ![styled_buttons](https://github.com/maeganlucas/CS490-ATC/assets/92832062/d7da6f0a-34e3-4b4e-9a33-7768652e1dc6)
 
