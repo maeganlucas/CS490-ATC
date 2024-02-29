@@ -221,6 +221,8 @@
 
 ### Week Eight (Feb. 26 - Mar. 3)
   - Created pull request [#21](https://github.com/TheCreepOfWar/asr-webapp/pull/21) (Create Base Audio Replay Page)
+  - Merge pull request [#21](https://github.com/TheCreepOfWar/asr-webapp/pull/21) (Create Base Audio Replay Page)
+  - Review pull request [#22](https://github.com/TheCreepOfWar/asr-webapp/pull/22) (Pane Style Changes, Right Control Icon Changes, Brightness)
   - Continued work on Audio Replay page
     - Added reset button to Date Range select screen.
     - Implement reset button to return to original screen configuration
