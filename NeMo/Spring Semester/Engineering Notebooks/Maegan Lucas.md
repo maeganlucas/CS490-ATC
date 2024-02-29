@@ -224,6 +224,7 @@
   - Merged pull request [#21](https://github.com/TheCreepOfWar/asr-webapp/pull/21) (Create Base Audio Replay Page)
   - Reviewed pull request [#22](https://github.com/TheCreepOfWar/asr-webapp/pull/22) (Pane Style Changes, Right Control Icon Changes, Brightness)
   - Reviewed pull request [#23](https://github.com/TheCreepOfWar/asr-webapp/pull/23#pullrequestreview-1909744527) (Icon Folder)
+  - Merged pull request [#23](https://github.com/TheCreepOfWar/asr-webapp/pull/23#pullrequestreview-1909744527) (Icon Folder)
   - Continued work on Audio Replay page
     - Added reset button to Date Range select screen.
     - Implement reset button to return to original screen configuration
