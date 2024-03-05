@@ -9,6 +9,7 @@
 &emsp;[Week Six](#week-six-feb-12---feb-18)
 &emsp;[Week Seven](#week-seven-feb-19---feb-25)
 &emsp;[Week Eight](#week-eight-feb-26---mar-3)
+&emsp;[Week Nine](#week-nine-mar-4---mar-10)
 
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
@@ -225,6 +226,7 @@
   - Reviewed pull request [#22](https://github.com/TheCreepOfWar/asr-webapp/pull/22) (Pane Style Changes, Right Control Icon Changes, Brightness)
   - Reviewed pull request [#23](https://github.com/TheCreepOfWar/asr-webapp/pull/23#pullrequestreview-1909744527) (Icon Folder)
   - Merged pull request [#23](https://github.com/TheCreepOfWar/asr-webapp/pull/23#pullrequestreview-1909744527) (Icon Folder)
+  - Started trying to fix a merge error.
   - Continued work on Audio Replay page
     - Added reset button to Date Range select screen.
     - Implement reset button to return to original screen configuration
@@ -234,4 +236,8 @@
     - Added div to hold database results
       - Will be formatted more when database connection between frontend and backend are established.
       ![styled_buttons](https://github.com/maeganlucas/CS490-ATC/assets/92832062/d7da6f0a-34e3-4b4e-9a33-7768652e1dc6)
+
+### Week Nine (Mar. 4 - Mar. 10)
+  - Create pull request [#27](https://github.com/TheCreepOfWar/asr-webapp/pull/27) (fix merge)
+  - Merged pull request [#27](https://github.com/TheCreepOfWar/asr-webapp/pull/27) (fix merge)
 
