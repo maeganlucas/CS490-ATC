@@ -62,4 +62,17 @@
         - Discussed with Taylor Sumlin about previous day problems with opensky API and alternatives, said ADS-B Exchange antenna was viable and we should pursue based on what information they got back to him with.
         - Crude temporary demonstration of page darkening feature, currently unimplemented, to be worked on.
     - (22 February 2024)
-        - 
+        - Attempted to implement brightness on map screen, failed adjusting brightness of the underlying tilemap, failed adjusting brightness without effecting icons, failed at reseting transform that leaflet uses on map and setting a div for brightness based on that location, program does not update reset transform quick enough.
+    - (23 February 2024)
+        - Found a successful solution to brightness, set a divIcon lower than all other icons and then configure that, this will be above the map tileset but below the UI and below other icons.
+### Week 8 (25 February 2024 - 2 March 2024)
+    - (25 February 2024)
+        - Provided details regarding how brightness slider works for test case.
+    - (28 February 2024)
+        - Changed color and implemented proper icons for right buttons on map screen, may not be in correct positions though.
+    - (29 February 2024)
+        - Fixed missing icons within main branch that did not merge with other updates.
+### Week 9 (3 March 2024 - 9 March 2024)
+    - (5 March 2024)
+        - Resolved issues with previous merge conflict affecting the main UI on the map screen
+    - ()
