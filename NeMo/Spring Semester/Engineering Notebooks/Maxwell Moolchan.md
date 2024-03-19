@@ -63,3 +63,21 @@
         - Crude temporary demonstration of page darkening feature, currently unimplemented, to be worked on.
     - (22 February 2024)
         - 
+### Week 9 (25 February 2024 - 2 March 2024)
+    - 
+### Week 10 (3 March 2024 - 9 March 2024)
+    - (5 March 2024)
+        - Spent nearly the entire class time working to fixed messed up CSS files from merge issues from previously incorrectly merged work.
+    - (6 March 2024)
+        - worked on sprint 2 presentation slides, worked on front end slides about new features and UI changes.
+    - (7 March 2024)
+        - finalized sprint 2 presentation slides, updated future development slides.
+        - Sprint 2 Presentation
+        - Started work on settings pane toggle setting sliders.
+### Week 11 (10 March 2024 - 16 March 2024)
+    - Spring Break
+### Week 12 (17 March 2024 - 23 March 2024)
+    - (18 March 2024)
+        - Worked with aaron over discord to resolve/figure out github pages issues, more work needs to be done on updating internal documentation but should now know how to do so.
+    - (19 March 2024)
+        - 
