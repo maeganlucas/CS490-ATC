@@ -86,6 +86,7 @@
             - Able to SSH into computer from my own laptop.
             - Successfully ran application as-is (without NeMo) running on computer
             - covered some of the previous files written by Aaron, previous years group, etc.
+            - Updated github and github pages documentation as needed.
 ### Week 12 (24 March 2024 - 30 March 2024)
     - (26 March 2024)
         - 
