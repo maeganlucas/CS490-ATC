@@ -80,4 +80,12 @@
     - (18 March 2024)
         - Worked with aaron over discord to resolve/figure out github pages issues, more work needs to be done on updating internal documentation but should now know how to do so.
     - (19 March 2024)
+        - Boeing Presentation in class.
+    - (21 March 2024)
+        - Worked with Tyler on further setting up and learning how to utilize computer in LB370 to get NeMo working.
+            - Able to SSH into computer from my own laptop.
+            - Successfully ran application as-is (without NeMo) running on computer
+            - covered some of the previous files written by Aaron, previous years group, etc.
+### Week 12 (24 March 2024 - 30 March 2024)
+    - (26 March 2024)
         - 
