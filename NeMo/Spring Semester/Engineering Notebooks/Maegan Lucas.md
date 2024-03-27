@@ -10,6 +10,9 @@
 &emsp;[Week Seven](#week-seven-feb-19---feb-25)
 &emsp;[Week Eight](#week-eight-feb-26---mar-3)
 &emsp;[Week Nine](#week-nine-mar-4---mar-10)
+&emsp;[Week Ten](#week-ten-mar-11---mar-17)
+<br>[Week Eleven](#week-eleven-mar-18---mar-24)
+&emsp;[Week Twelve](#week-twelve-mar-25---mar-31)
 
 ### Week One (Jan. 10 - Jan. 14)
   - Talked amongst group about reassigning roles within the group
@@ -112,7 +115,7 @@
       - Added a <i>Contact Us</i> header
       - Added a message to the page about contacting the team
       - Added Dr. Liu's contact information
-    - Created a blueprint to render the Contact template, contact.py
+    - Created a blueprint to render the Contact template, `contact.py`
     - Imported the Contact blueprint to `__init__.py`. Specific line:
       ```python
       from .blueprints import index, about, map, data, models, replay, site_map, contact
@@ -226,6 +229,10 @@
   - Reviewed pull request [#22](https://github.com/TheCreepOfWar/asr-webapp/pull/22) (Pane Style Changes, Right Control Icon Changes, Brightness)
   - Reviewed pull request [#23](https://github.com/TheCreepOfWar/asr-webapp/pull/23#pullrequestreview-1909744527) (Icon Folder)
   - Merged pull request [#23](https://github.com/TheCreepOfWar/asr-webapp/pull/23#pullrequestreview-1909744527) (Icon Folder)
+  - Updated SRS based off of Spring V1 comments
+  - Updated SDD based off of Spring V1 comments
+  - Uploaded SRS
+  - Uploaded SDD
   - Started trying to fix a merge error.
   - Continued work on Audio Replay page
     - Added reset button to Date Range select screen.
@@ -240,4 +247,56 @@
 ### Week Nine (Mar. 4 - Mar. 10)
   - Create pull request [#27](https://github.com/TheCreepOfWar/asr-webapp/pull/27) (fix merge)
   - Merged pull request [#27](https://github.com/TheCreepOfWar/asr-webapp/pull/27) (fix merge)
+  - Fixed merge error
+  - Began working on Aviation Phraseology Glossary Page
+    - Created the initial Glossary page with the following steps:
+      - Created new HTML page, `glossary.html`
+        - Uses the template layout from `template.html`
+        - Added a <i>Aviation Phraseology Glossary</i> header
+        - Added a message to the page about the glossary containing most commonly used terms and phrases and a link to the FAA Glossary the terms come from.
+      - Created a blueprint to render the Glossary template, `glossary.py`
+      - Imported the Contact blueprint to `__init__.py`. Specific line:
+        ```python
+        from .blueprints import index, about, map, data, models, replay, site_map, contact, glossary
+        ```
+      - Registered the Contact blueprint in `__init__.py`. Specific line:
+        ```python
+        app.register_blueprint(glossary.bp)
+        ```
+      - Modified the template layout to include a link to the Contact page. Specific line:
+        ```html
+        <li><a class="navy-font" href="{{ url_for('glossary.glossary') }}">Glossary</a></li>
+        ```
+    - Added terms for A-D
+      ![glossary_rev1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/84b2af1d-a1ac-4811-bd3a-8198e42db51d)
+  - Worked on Sprint 2 Demo
+  - Gave [Sprint 2 Demo](https://github.com/maeganlucas/CS490-ATC/blob/main/NeMo/Spring%20Semester/Demos/NeMo%20Spring%20-%20Sprint%202%20Demo.pdf)
+
+### Week Ten (Mar. 11 - Mar. 17)
+  <strong>Spring Break</strong>
+
+### Week Eleven (Mar. 18 - Mar. 24)
+  - Continued working on Glossary page
+    - Added terms D-M
+  - Created presentation for Brown Bag Presentation Session (requested by Dr. Liu)
+
+### Week Twelve (Mar. 25 - Mar. 31)
+  - Created pull request [#36](https://github.com/TheCreepOfWar/asr-webapp/pull/36) (Add Glossary Page)
+  - Continued working on Glossary page
+    - Added terms M-Z
+    - Added divider lines between the letters
+    - Added letter links to the beginning of the page to jump to a specific letter
+    - Made sure all links between terms worked properly
+    - Spell checked and made sure everything on the page was spelled correctly
+  ![glossary_rev2_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/e7558f11-cd1f-46a9-846a-cf91a47771cd)
+  ![glossary_rev2_1_1](https://github.com/maeganlucas/CS490-ATC/assets/92832062/0d5cd9fa-27fe-442e-b0f9-9abb5a6e0b1d)
+  ![glossary_rev2_1_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/0ef8c66c-f651-4cd1-8253-74a771f97950)
+  ![glossary_rev2_2](https://github.com/maeganlucas/CS490-ATC/assets/92832062/fe160f34-bf2e-40ba-a048-f68dc9f80af1)
+  ![glossary_rev2_3](https://github.com/maeganlucas/CS490-ATC/assets/92832062/56ab00f4-d1c8-4263-9cf3-b1a8a473d748)
+  ![glossary_rev2_4](https://github.com/maeganlucas/CS490-ATC/assets/92832062/74f9d5f2-4daa-4fbd-9297-f3604f64a388)
+  ![glossary_rev2_5](https://github.com/maeganlucas/CS490-ATC/assets/92832062/ead7092b-fbcc-4e01-98f1-e6efeb11dd0f)
+  ![glossary_rev2_6](https://github.com/maeganlucas/CS490-ATC/assets/92832062/d4adb942-dcaf-4bbd-8d17-7e891e90ea3e)
+  ![glossary_rev2_7](https://github.com/maeganlucas/CS490-ATC/assets/92832062/894e27e9-a1eb-4f75-8a0f-b24874a46dd0)
+  ![glossary_rev2_8](https://github.com/maeganlucas/CS490-ATC/assets/92832062/65a587e8-264b-4bb2-82b2-97de5c044cb3)
+
 
