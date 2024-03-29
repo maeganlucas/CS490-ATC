@@ -45,3 +45,37 @@
     - Discussed with Darian on how we are going to implement the .wav file into the database. 
     - We want to get most of the plane info into the database but the most important thing is the ausio file and the transcription. 
     - Researching how to implement the database with the webapp. (This is for the future, jsut looking to get a headstart. 
+
+### Week 7(18 February 2024 - 24 February 2024)
+    - Worked on getting the airports from the xlsx file to the database. 
+    - Did lots of research on how to convert the xlsx file into the mysql databse.
+    - My code is giving me issues becasue the airports would not go into the database. 
+    - Helping Darian set up the mysql database so he could help me. 
+
+### Week 8(26 February 2024 - 3 March 2024)
+    - Tried to work on the srs to make a use case diagram, but ended up getting stuck on fixing my code.
+    - Did a pull request and for some resson my code stopped working. 
+    - Got my code to work, now I have to implement my quries back in. 
+    - Implemented my quries back into the code and it worked.
+    - Still trying to get the airports to go into the database. 
+
+### Week 9(4 March 2024 - 10 March 2024)
+    - Still working on trying to get the airports to load in the database.
+    - Got Darien to get the database to work on his end. 
+    - Worked on sprint 2 slides
+    - Finally got the airports to load in the database. 
+    - Edited the sprint 2 slides. 
+    - Presented sprint 2.
+
+### Week 10(11 March 2024 - 17 March 2024)
+    - Spring Break
+
+### Week 11(18 March 2024 - 24 March 2024)
+    - Mostly did research on implementing the database and webapp.
+    - Started to find the code to implement the database in. 
+    - Found the html and javascript I can use to implement the buttons. 
+
+### Week 12(25 March 2024 - 31 March 2024)
+    - Started working on quering the database into the webapp.
+    - Made the code to query the database into the webapp.
+    - Need to make a button that when on click it will search the database to find the plane. 
