@@ -2,7 +2,7 @@
 Taylor Sumlin, Adam Fitch, Maegan Lucas, Darian Hopkins, Maxwell Moolchan<br>
 Updated: 18 January 2024<br>
 
-<strong> Please see Scrumwise below for most currently updated Scrum tasks </strong>
+<strong> Please see Scrumwise below for most currently updated Scrum tasks </strong><br>
 Scrumwise: https://www.scrumwise.com/scrum/#/overview/project/nemo-490/id-186782-16191-22
 
 # Table of Contents
