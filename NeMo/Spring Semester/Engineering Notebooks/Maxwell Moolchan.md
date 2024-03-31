@@ -63,9 +63,19 @@
         - Crude temporary demonstration of page darkening feature, currently unimplemented, to be worked on.
     - (22 February 2024)
         - 
-### Week 9 (25 February 2024 - 2 March 2024)
-    - 
-### Week 10 (3 March 2024 - 9 March 2024)
+### Week 8 (25 February 2024 - 2 March 2024)
+    - (26 February 2024)
+        - Fixed bugged brightness slider with dragging events
+    - (27 February 2024)
+        - Discussed who will be available for Discovery Day Presentation
+    - (28 February 2024)
+        - Edited right control buttons to have images instead of letters to be more user friendly
+        - Started Adding append transcription message function and formatting how messages will look in the transcription output box
+    - (29 February 2024)
+        - Reactivated models file and added check for NVIDIA GPU needed to run NeMo models
+        - modified css files to be cleaner
+        - Updated right icons from Taylor as previously not centered.
+### Week 9 (3 March 2024 - 9 March 2024)
     - (5 March 2024)
         - Spent nearly the entire class time working to fixed messed up CSS files from merge issues from previously incorrectly merged work.
     - (6 March 2024)
@@ -74,9 +84,9 @@
         - finalized sprint 2 presentation slides, updated future development slides.
         - Sprint 2 Presentation
         - Started work on settings pane toggle setting sliders.
-### Week 11 (10 March 2024 - 16 March 2024)
+### Week 10 (10 March 2024 - 16 March 2024)
     - Spring Break
-### Week 12 (17 March 2024 - 23 March 2024)
+### Week 11 (17 March 2024 - 23 March 2024)
     - (18 March 2024)
         - Worked with aaron over discord to resolve/figure out github pages issues, more work needs to be done on updating internal documentation but should now know how to do so.
     - (19 March 2024)
@@ -89,4 +99,19 @@
             - Updated github and github pages documentation as needed.
 ### Week 12 (24 March 2024 - 30 March 2024)
     - (26 March 2024)
-        - 
+        - Taylor provided smaller icons for webapp, need to be uploaded.
+        - Had to temporarily switch to live atc feed for testing because Near Aero seems to not be working correctly for me.
+        - Worked on getting transcription working in terminal with Tyler
+    - (28 March 2024)
+        - Discussed with Tyler transcription output to website, future hosting, future mobile design, & working on webapp over summer break for Dr. Liu
+        - Spent class time helping Darian learn and utilize XMLHTTP request to get form input to backend.
+    - (29 March 2024)
+        - Started Setup of Flask-SocketIO to make live transcription output to website feasible.
+        - Setup basic events for Flask-SocketIO such as connect, disconnect, sending stream URL, etc.
+    - (30 March 2024)
+        - Got NeMo transcription Output to website.
+        - Running NeMo transcription as seperate process does not work as intended presumably because of GPU locking issues.
+        - Rewrote code to work without starting other process for NeMo transcription and eliminate stopping NeMo trancription by killing process, ie killing the whole webapp.
+        - NeMo transcription now occours and is returned on a per client basis, ie only the transcription you started is now displayed.
+        - Need to work on following issues:
+            - When client is closed without manually stopping transcription the transcription continues to run and consume resources.
