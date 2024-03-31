@@ -61,8 +61,6 @@
         - Presented project at EWeek in the Student Union for the EECS department along with Taylor Sumlin.
         - Discussed with Taylor Sumlin about previous day problems with opensky API and alternatives, said ADS-B Exchange antenna was viable and we should pursue based on what information they got back to him with.
         - Crude temporary demonstration of page darkening feature, currently unimplemented, to be worked on.
-    - (22 February 2024)
-        - 
 ### Week 8 (25 February 2024 - 2 March 2024)
     - (26 February 2024)
         - Fixed bugged brightness slider with dragging events
