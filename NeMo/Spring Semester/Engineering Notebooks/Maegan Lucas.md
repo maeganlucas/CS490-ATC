@@ -282,6 +282,7 @@
 
 ### Week Twelve (Mar. 25 - Mar. 31)
   - Created pull request [#36](https://github.com/TheCreepOfWar/asr-webapp/pull/36) (Add Glossary Page)
+  - Had Adam set me up with new database code, so that I can start helping with frontend-backend connections
   - Continued working on Glossary page
     - Added terms M-Z
     - Added divider lines between the letters
